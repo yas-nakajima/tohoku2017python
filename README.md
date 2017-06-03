@@ -1,0 +1,2 @@
+# tohoku2017python
+2017年東北大理学部でのPython講習会
