@@ -8,18 +8,19 @@
 	- 10:30-11:30  
 		- 光赤外撮像観測とそのデータ処理概論(座学)
 	- 13:00-17:30 (休憩を挟みながら)  
-		- Jupyter notebookの使い方  
-		- IRAF(PyRAF)基本  
-			- imexam, imstat, imarith  
-			- apphot  
+		- Jupyter notebookの使い方(座学と実習)  
+		- IRAF(PyRAF)基本(座学と実習)  
+			- imexam, imstat, imarith, imcombine   
+			- daofind, apphot
 
 - 2日目  
-  - 9:30-11:30  
-    - IRAFを使わない処理の基本  
-      - numpy, astropy.io.fits, matplotlib  
+	- 9:30-11:30  
+		- IRAFを使わない処理の基本(座学と実習)  
+			- numpy, astropy.io.fits, matplotlib
+	- 13:00-15:00
+		- 質問・相談  
 
-  - 13:00-14:30  
-    - 質問・相談  
+**対象:** データ処理初心者(学部生~)
 
 
 
