@@ -22,7 +22,7 @@
 
 **対象:** データ処理初心者(学部生~)
 
-
-
-
+**必要な計算機環境:** 
+- アプリ Python(3.5), IRAF, ds9
+- pythonモジュール  Jupyter notebook, PyRAF, numpy, astropy, matplotlib
 
