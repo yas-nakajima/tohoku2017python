@@ -6,11 +6,11 @@
 **日程**
 - 1日目  
   - 10:30-11:30  
-    - 光赤外撮像観測とそのデータ処理概論(座学)   
-  - 13:00-17:30 (休憩を挟みながら)  
+    - 光赤外撮像観測とそのデータ処理概論(座学)  
+  - 13:00-17:30 (休憩を挟みながら)  
     - Jupyter notebookの使い方  
     - IRAF(PyRAF)基本  
-      - imexam, imstat, imarith
+      - imexam, imstat, imarith  
       - apphot  
 
 - 2日目  
