@@ -4,13 +4,13 @@
 2017年8月3日(木)-4日(金)
 
 **日程**
-- 1日目 
-  - 10:30-11:30  
+- 1日目  
+  - 10:30-11:30   
     - 光赤外撮像観測とそのデータ処理概論(座学)  
-  - 13:00-17:30 (休憩を挟みながら)  
+  - 13:00-17:30 (休憩を挟みながら)  
     - Jupyter notebookの使い方  
-    - IRAF(PyRAF)基本 
-      - imexam, imstat, imarith  
+    - IRAF(PyRAF)基本  
+      - imexam, imstat, imarith
       - apphot  
 
 - 2日目  
