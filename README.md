@@ -34,5 +34,5 @@
 この日のうちに全部習得できなくても、ここで用意した資料を見返しながら、自習あるいはグループ学習で習得できるようになるのが目的です。  
 
 IRAFやPythonにある程度慣れている人には物足りないかもしれません。その場合には、  
-https://github.com/yas-nakajima/adc2017python 
+https://github.com/yas-nakajima/adc2017python  
 の資料を勉強してみてください。適宜、メールでの質問も受け付けます。   
