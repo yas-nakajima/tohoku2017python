@@ -12,10 +12,11 @@ PythonとJupyter notebookを使ったインタラクティブな処理の基礎�
 - 1日目  
 	- 9:00-10:30
 		- 質問、相談
-	- 10:30-11:30  
-		- 光赤外撮像観測とそのデータ処理概論(座学)
+	- 10:30-11:30
+		- 光赤外撮像観測とそのデータ処理概論(座学)  
+		今回の講習の導入です
 	- 13:00-17:30 (休憩を挟みながら)  
-		- Jupyter notebookの使い方(座学と実習)  
+		- Jupyter notebookの使い方(座学と実習)
 		- IRAF(PyRAF)基本(座学と実習)  講習1~3
 			- imexam, imstat, imarith, imcombine   
 			- daofind, apphot
