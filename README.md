@@ -17,13 +17,16 @@ PythonとJupyter notebookを使ったインタラクティブな処理の基礎�
 		今回の講習の導入です
 	- 13:00-17:30 (休憩を挟みながら)  
 		- Jupyter notebookの使い方(座学と実習)
-		- IRAF(PyRAF)基本(座学と実習) 講習1~3
+		Wikiの資料と講習0
+		- IRAF(PyRAF)基本(座学と実習) 
+		講習1~3
 			- imexam, imstat, imarith, imcombine  
 			- daofind, apphot
 
 - 2日目  
 	- 9:30-11:30  
-		- IRAFを使わない処理の基本(座学と実習) 講習4~6
+		- IRAFを使わない処理の基本(座学と実習) 
+		講習4~6
 			- numpy, astropy.io.fits, matplotlib
 	- 13:00-15:00
 		- 質問・相談  
