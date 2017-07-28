@@ -25,7 +25,7 @@ PythonとJupyter notebookを使ったインタラクティブな処理の基礎�
 			- daofind, apphot
 
 - 2日目  
-	- 9:30-11:30  
+	- 9:00-11:30  
 		- IRAFを使わない処理の基本(座学と実習)   
 		講習4~6
 			- numpy, astropy.io.fits, matplotlib
