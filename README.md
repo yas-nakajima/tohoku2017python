@@ -36,7 +36,7 @@ PythonとJupyter notebookを使ったインタラクティブな処理の基礎�
   - Python, Jupyter notebook, PyRAFなどのインストール、設定
   - 今回の講習会には都合が合わないが、自習してみての疑問点
   - https://github.com/yas-nakajima/adc2017python を自習してみての疑問点
-  - Pythonでプログラミングしてみたが、ここがうまくいかない
+  - Pythonでプログラミングしてみたが、ここがうまくいかない  
   などを受け付けます。
 
 **対象:** データ処理初心者(学部生~)
