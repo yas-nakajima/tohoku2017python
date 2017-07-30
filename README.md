@@ -11,7 +11,7 @@ PythonとJupyter notebookを使ったインタラクティブな処理の基礎�
 **日程**
 - 1日目  
 	- 9:00-10:30
-		- 質問、相談
+		- 質問、相談  
 	- 10:30-11:30
 		- 光赤外撮像観測とそのデータ処理概論(座学)  
 		今回の講習の導入です
@@ -31,6 +31,13 @@ PythonとJupyter notebookを使ったインタラクティブな処理の基礎�
 			- numpy, astropy.io.fits, matplotlib
 	- 13:00-15:00
 		- 質問・相談  
+
+- 上記の質問・相談では  
+  - Python, Jupyter notebook, PyRAFなどのインストール、設定
+  - 今回の講習会には都合が合わないが、自習してみての疑問点
+  - https://github.com/yas-nakajima/adc2017python を自習してみての疑問点
+  - Pythonでプログラミングしてみたが、ここがうまくいかない
+  などを受け付けます。
 
 **対象:** データ処理初心者(学部生~)
 
